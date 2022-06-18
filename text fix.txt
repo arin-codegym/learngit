@@ -1,0 +1,13 @@
+car _  carelessness
+COM _ Missing communication
+COM_ Missing confirmation
+DES_ Missing or incomplete
+IMP_ Discipline / process non-compliance
+IMP_ Insufficient analysis before implementation
+IMP_ Shortage of time
+PRO_ Missing or incomplete
+REQ_ Misunderstanding
+SKI_ Inadequate language proficiency
+SKI_ Lack of professional skill
+SKI_ Shortage of business domain expertise
+SKI_ Shortage of technology expertise
